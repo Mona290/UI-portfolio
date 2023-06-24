@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Irish+Grover:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almendra:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aclonica:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-irish-grover: "Irish Grover";
+  --font-almendra: Almendra;
+  --font-aclonica: Aclonica;
+  --font-inter: Inter;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-architects-daughter: "Architects Daughter";
+  --font-annie-use-your-telescope: "Annie Use Your Telescope";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-goldenrod-100: #c6b83f;
+  --color-goldenrod-200: #c7a119;
+  --color-brown-100: #c63f3f;
+  --color-crimson: #d82e2e;
+  --color-lightseagreen-100: #20a39b;
+  --color-white: #fff;
+  --color-mediumorchid: #ba3ece;
+}
